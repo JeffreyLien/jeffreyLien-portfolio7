@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#ffffff"/>
+<g font-family="Arial, sans-serif">
+<text x="55" y="55" font-size="30" font-weight="700" fill="#111827">Operational Exception Mix</text>
+<text x="55" y="87" font-size="16" fill="#6b7280">4,659 synthetic issues detected across order and transfer workflows</text>
+<g font-size="15" fill="#111827">
+<text x="55" y="150">Late Shipment</text><rect x="240" y="130" width="760" height="27" rx="5" fill="#60a5fa"/><text x="1020" y="151">2,768</text>
+<text x="55" y="205">Rejected Ack</text><rect x="240" y="185" width="148" height="27" rx="5" fill="#93c5fd"/><text x="408" y="206">539</text>
+<text x="55" y="260">Transfer Failure</text><rect x="240" y="240" width="79" height="27" rx="5" fill="#93c5fd"/><text x="339" y="261">287</text>
+<text x="55" y="315">Invoice Mismatch</text><rect x="240" y="295" width="76" height="27" rx="5" fill="#93c5fd"/><text x="336" y="316">276</text>
+<text x="55" y="370">Missing Shipment</text><rect x="240" y="350" width="75" height="27" rx="5" fill="#93c5fd"/><text x="335" y="371">273</text>
+<text x="55" y="425">Missing Invoice</text><rect x="240" y="405" width="67" height="27" rx="5" fill="#93c5fd"/><text x="327" y="426">243</text>
+<text x="55" y="480">Missing Ack</text><rect x="240" y="460" width="54" height="27" rx="5" fill="#93c5fd"/><text x="314" y="481">195</text>
+<text x="55" y="535">Invalid Order Ref</text><rect x="240" y="515" width="22" height="27" rx="5" fill="#93c5fd"/><text x="282" y="536">78</text>
+</g>
+</g>
+</svg>
