@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#ffffff"/>
+<g font-family="Arial, sans-serif">
+<text x="55" y="55" font-size="30" font-weight="700" fill="#111827">Supplier Risk &amp; Resource Allocation</text>
+<text x="55" y="87" font-size="16" fill="#6b7280">Example of prioritizing support using operational failure rate and transaction value</text>
+<line x1="100" y1="520" x2="1100" y2="520" stroke="#d1d5db"/><line x1="100" y1="135" x2="100" y2="520" stroke="#d1d5db"/>
+<text x="600" y="575" text-anchor="middle" font-size="15" fill="#6b7280">Supplier Order Value →</text>
+<text x="32" y="330" transform="rotate(-90 32 330)" text-anchor="middle" font-size="15" fill="#6b7280">Exceptions per 100 Orders →</text>
+<g fill="#60a5fa" stroke="#2563eb" stroke-width="1.5">
+<circle cx="360" cy="185" r="16"/><circle cx="680" cy="192" r="19"/><circle cx="590" cy="212" r="18"/><circle cx="565" cy="220" r="18"/>
+<circle cx="465" cy="225" r="17"/><circle cx="535" cy="231" r="17"/><circle cx="542" cy="245" r="17"/><circle cx="585" cy="248" r="18"/>
+</g>
+<g font-size="13" fill="#374151">
+<text x="325" y="168">SUP006</text><text x="692" y="177">SUP028</text><text x="600" y="197">SUP015</text><text x="575" y="205">SUP004</text>
+<text x="420" y="210">SUP040</text><text x="495" y="216">SUP033</text><text x="500" y="272">SUP019</text><text x="600" y="272">SUP022</text>
+</g>
+<rect x="740" y="345" width="360" height="145" rx="16" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="765" y="382" font-size="17" font-weight="700" fill="#111827">How the analyst uses this</text>
+<text x="765" y="415" font-size="14" fill="#6b7280">• High-value + high-error partners first</text>
+<text x="765" y="442" font-size="14" fill="#6b7280">• Drill into error codes and documents</text>
+<text x="765" y="469" font-size="14" fill="#6b7280">• Assign support capacity by impact</text>
+</g>
+</svg>
