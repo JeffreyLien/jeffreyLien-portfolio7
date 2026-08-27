@@ -125,7 +125,3 @@ make app
 ## Skills Demonstrated
 
 **SQL · Python · SQLite · Streamlit · Data Validation · Data Integration · B2B Operations · Supply Chain Analytics · Transaction Monitoring · Data Quality · Root-Cause Analysis · Resource Allocation · Partner Performance · Operational Reporting · Technical Documentation · EDI-adjacent Workflows · AS2/SFTP/VAN Concepts**
-
-## Resume-Ready Bullet
-
-> Built a synthetic B2B supply-chain data operations pipeline covering 8,000 orders across supplier and distributor networks; used SQL and Python to detect transaction failures, missing documents, invoice mismatches, and fulfillment exceptions, and developed partner scorecards and a prioritized issue queue to support operational troubleshooting and resource allocation.
