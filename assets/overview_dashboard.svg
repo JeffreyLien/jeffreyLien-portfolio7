@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#ffffff"/>
+<g font-family="Arial, sans-serif">
+<text x="55" y="55" font-size="30" font-weight="700" fill="#111827">Operations Overview</text>
+<text x="55" y="86" font-size="16" fill="#6b7280">Synthetic January–June 2026 portfolio dataset</text>
+<g>
+<rect x="55" y="120" width="245" height="105" rx="16" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="75" y="151" font-size="14" fill="#6b7280">ORDERS</text><text x="75" y="198" font-size="34" font-weight="700" fill="#111827">8,000</text>
+<rect x="320" y="120" width="245" height="105" rx="16" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="340" y="151" font-size="14" fill="#6b7280">ORDER VALUE</text><text x="340" y="198" font-size="34" font-weight="700" fill="#111827">$40.7M</text>
+<rect x="585" y="120" width="245" height="105" rx="16" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="605" y="151" font-size="14" fill="#6b7280">EXCEPTIONS</text><text x="605" y="198" font-size="34" font-weight="700" fill="#111827">4,659</text>
+<rect x="850" y="120" width="295" height="105" rx="16" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="870" y="151" font-size="14" fill="#6b7280">TRANSFER SUCCESS</text><text x="870" y="198" font-size="34" font-weight="700" fill="#111827">94.9%</text>
+</g>
+<text x="55" y="278" font-size="20" font-weight="700" fill="#111827">Monthly B2B Order Value</text>
+<line x1="80" y1="520" x2="650" y2="520" stroke="#d1d5db"/>
+<line x1="80" y1="325" x2="80" y2="520" stroke="#d1d5db"/>
+<g fill="#60a5fa">
+<rect x="105" y="354" width="58" height="166"/><rect x="195" y="357" width="58" height="163"/><rect x="285" y="350" width="58" height="170"/><rect x="375" y="352" width="58" height="168"/><rect x="465" y="362" width="58" height="158"/><rect x="555" y="363" width="58" height="157"/>
+</g>
+<g font-size="13" fill="#6b7280">
+<text x="134" y="545" text-anchor="middle">Jan</text><text x="224" y="545" text-anchor="middle">Feb</text><text x="314" y="545" text-anchor="middle">Mar</text><text x="404" y="545" text-anchor="middle">Apr</text><text x="494" y="545" text-anchor="middle">May</text><text x="584" y="545" text-anchor="middle">Jun</text>
+</g>
+<text x="720" y="278" font-size="20" font-weight="700" fill="#111827">Operational Focus</text>
+<rect x="720" y="315" width="425" height="210" rx="16" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="750" y="355" font-size="16" font-weight="700" fill="#111827">Largest issue category</text>
+<text x="750" y="386" font-size="27" font-weight="700" fill="#111827">2,768 late shipments</text>
+<text x="750" y="430" font-size="15" fill="#6b7280">Priority logic combines severity + transaction value</text>
+<text x="750" y="461" font-size="15" fill="#6b7280">Partner scorecards surface recurring supplier issues</text>
+<text x="750" y="492" font-size="15" fill="#6b7280">SQL drills from network-level KPI → affected order</text>
+</g>
+</svg>
