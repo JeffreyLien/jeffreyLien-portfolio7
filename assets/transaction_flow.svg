@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" fill="#ffffff"/>
+<text x="60" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111827">B2B Transaction Flow</text>
+<text x="60" y="92" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">Synthetic distributor-network workflow modeled in this portfolio</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6b7280"/></marker></defs>
+<g font-family="Arial, sans-serif">
+  <rect x="70" y="150" rx="18" width="220" height="100" fill="#f3f4f6" stroke="#d1d5db"/>
+  <text x="180" y="190" text-anchor="middle" font-size="22" font-weight="700" fill="#111827">Business Customer</text>
+  <text x="180" y="220" text-anchor="middle" font-size="15" fill="#6b7280">120 synthetic accounts</text>
+  <rect x="360" y="150" rx="18" width="220" height="100" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="470" y="190" text-anchor="middle" font-size="22" font-weight="700" fill="#111827">Distributor</text>
+  <text x="470" y="220" text-anchor="middle" font-size="15" fill="#6b7280">60 trading partners</text>
+  <rect x="650" y="130" rx="18" width="220" height="140" fill="#f9fafb" stroke="#9ca3af"/>
+  <text x="760" y="174" text-anchor="middle" font-size="22" font-weight="700" fill="#111827">Data Operations Hub</text>
+  <text x="760" y="205" text-anchor="middle" font-size="15" fill="#6b7280">validate • monitor • triage</text>
+  <text x="760" y="234" text-anchor="middle" font-size="14" fill="#6b7280">AS2 • SFTP • VAN</text>
+  <rect x="940" y="150" rx="18" width="190" height="100" fill="#f3f4f6" stroke="#d1d5db"/>
+  <text x="1035" y="190" text-anchor="middle" font-size="22" font-weight="700" fill="#111827">Supplier</text>
+  <text x="1035" y="220" text-anchor="middle" font-size="15" fill="#6b7280">40 trading partners</text>
+  <line x1="290" y1="200" x2="350" y2="200" stroke="#6b7280" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="580" y1="200" x2="640" y2="200" stroke="#6b7280" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="870" y1="200" x2="930" y2="200" stroke="#6b7280" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="325" y="182" text-anchor="middle" font-size="13" fill="#6b7280">Order</text>
+  <text x="615" y="182" text-anchor="middle" font-size="13" fill="#6b7280">850-like</text>
+  <text x="900" y="170" text-anchor="middle" font-size="13" fill="#6b7280">855 / 856 / 810</text>
+</g>
+</svg>
