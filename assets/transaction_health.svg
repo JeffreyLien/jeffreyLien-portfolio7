@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<rect width="1200" height="560" fill="#ffffff"/>
+<g font-family="Arial, sans-serif">
+<text x="55" y="55" font-size="30" font-weight="700" fill="#111827">Transaction &amp; File-Transfer Health</text>
+<text x="55" y="87" font-size="16" fill="#6b7280">AS2 / SFTP / VAN-labeled synthetic transfer monitoring</text>
+<rect x="55" y="125" width="1090" height="95" rx="16" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="85" y="158" font-size="14" fill="#6b7280">OVERALL TRANSFER SUCCESS</text>
+<text x="85" y="202" font-size="36" font-weight="700" fill="#111827">94.9%</text>
+<text x="260" y="190" font-size="15" fill="#6b7280">5,582 transfer events • 287 failures</text>
+<text x="55" y="280" font-size="20" font-weight="700" fill="#111827">Monthly failed transfers</text>
+<line x1="90" y1="465" x2="770" y2="465" stroke="#d1d5db"/>
+<g fill="#60a5fa">
+<rect x="120" y="325" width="70" height="140"/><rect x="225" y="392" width="70" height="73"/><rect x="330" y="355" width="70" height="110"/>
+<rect x="435" y="370" width="70" height="95"/><rect x="540" y="375" width="70" height="90"/><rect x="645" y="355" width="70" height="110"/>
+</g>
+<g font-size="13" fill="#6b7280">
+<text x="155" y="490" text-anchor="middle">Jan 65</text><text x="260" y="490" text-anchor="middle">Feb 34</text><text x="365" y="490" text-anchor="middle">Mar 51</text>
+<text x="470" y="490" text-anchor="middle">Apr 44</text><text x="575" y="490" text-anchor="middle">May 42</text><text x="680" y="490" text-anchor="middle">Jun 51</text>
+</g>
+<rect x="835" y="285" width="310" height="180" rx="16" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="860" y="322" font-size="17" font-weight="700" fill="#111827">Troubleshooting drill-down</text>
+<text x="860" y="357" font-size="14" fill="#6b7280">partner_id</text>
+<text x="860" y="384" font-size="14" fill="#6b7280">transport method</text>
+<text x="860" y="411" font-size="14" fill="#6b7280">document type</text>
+<text x="860" y="438" font-size="14" fill="#6b7280">error code / retry path</text>
+</g>
+</svg>
